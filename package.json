@@ -1,5 +1,6 @@
 {
   "name": "react-web-tools-demo",
+  "homepage": "https://danielacsion.github.io/react-web-tools-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
